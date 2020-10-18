@@ -2,6 +2,6 @@
 
 This repository contains example programs in C++
 
-#### LISENSI
+#### License
 
 [MIT](LICENSE)
